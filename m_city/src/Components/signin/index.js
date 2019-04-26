@@ -59,7 +59,6 @@ class SignIn extends Component {
             formError: false,
             formdata: newFormdata
         });
-        // this.successMessage();
     }
 
     submitForm(event) {
